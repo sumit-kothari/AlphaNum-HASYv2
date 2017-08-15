@@ -5,7 +5,7 @@ This repository contains **Alpha-Numeric Handwritten Dataset** stored in Python 
 > [HASYv2] contains 32px x 32px images of 369 symbol classes while **AlphaNum-HASYv2** contains 32px x 32px images of 62 (or 0-61) symbol classes (0-1 = 10, A-Z = 26, a-z = 26)
 
 # Pre-generated Numpy dataset
-Under `output_data_alpha_num` directory two files are present, which are as followed:
+Under `output_data_alpha_num` directory 3 files are present, which are as followed:
 
   - `alphanum-hasy-data-X.npy` : Contains images data-set with size (4658, 32, 32)
   - `alphanum-hasy-data-y.npy` : Contains labels data-set with size (4658,)
