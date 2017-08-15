@@ -9,6 +9,7 @@ Under `output_data_alpha_num` directory two files are present, which are as foll
 
   - `alphanum-hasy-data-X.npy` : Contains images data-set with size (4658, 32, 32)
   - `alphanum-hasy-data-y.npy` : Contains labels data-set with size (4658,)
+  - `symbols.csv` : Contains mapping between symbol_id and its symbol (i.e digit/char)  
   
 # Regenerate Numpy dataset
 
