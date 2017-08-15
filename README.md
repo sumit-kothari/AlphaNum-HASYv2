@@ -19,6 +19,7 @@ Assumptions:
   - This code is using Python 3.x
 
 ***Follow below steps to regenerate dataset:***
+
 0: **Download HASYv2 dataset** (Required only once)
 ```
 $ cd HASYv2_data
